@@ -6,7 +6,7 @@ CineDataQuest is my ticket to cinematic data analysis. Delve into ticket sales, 
 
 ### ROLAP Schema
 
-![db-schema](assets/db_screenshot/schema.png)
+![db-schema](db_screenshot/schema.png)
 
 ### Assumption
 
