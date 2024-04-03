@@ -1,0 +1,25 @@
+cinema_state,hall_size_category,total_sales
+California,Large-size,62685
+California,Mid-size,128200
+California,Small-size,123656
+Florida,Large-size,120344
+Florida,Mid-size,97393
+Florida,Small-size,91960
+Georgia,Large-size,224226
+Georgia,Mid-size,126930
+Georgia,Small-size,138473
+Illinois,Large-size,168892
+Illinois,Mid-size,50765
+Illinois,Small-size,72575
+New York,Large-size,135090
+New York,Mid-size,66501
+New York,Small-size,25415
+Pennsylvania,Large-size,99574
+Pennsylvania,Mid-size,43343
+Pennsylvania,Small-size,76838
+Texas,Large-size,70580
+Texas,Mid-size,47736
+Texas,Small-size,39415
+Washington,Large-size,131188
+Washington,Mid-size,31038
+Washington,Small-size,96737

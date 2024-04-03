@@ -1,0 +1,94 @@
+transaction_year,transaction_type,total_sales
+1994,Cash,505335
+1994,Credit Card,1034460
+1994,Wire Transfer,171540
+1995,Cash,822115
+1995,Credit Card,1681885
+1995,Wire Transfer,278990
+1996,Cash,470180
+1996,Credit Card,926895
+1996,Wire Transfer,154155
+1997,Cash,1136175
+1997,Credit Card,2312560
+1997,Wire Transfer,386385
+1998,Cash,812530
+1998,Credit Card,1640300
+1998,Wire Transfer,272545
+1999,Cash,911445
+1999,Credit Card,1833255
+1999,Wire Transfer,304270
+2000,Cash,827815
+2000,Credit Card,1647885
+2000,Wire Transfer,277080
+2001,Cash,694465
+2001,Credit Card,1377980
+2001,Wire Transfer,236605
+2002,Cash,850985
+2002,Credit Card,1732765
+2002,Wire Transfer,277750
+2003,Cash,859020
+2003,Credit Card,1717130
+2003,Wire Transfer,283405
+2004,Cash,804985
+2004,Credit Card,1643145
+2004,Wire Transfer,275720
+2005,Cash,829090
+2005,Credit Card,1677730
+2005,Wire Transfer,284785
+2006,Cash,936400
+2006,Credit Card,1854110
+2006,Wire Transfer,309350
+2007,Cash,547845
+2007,Credit Card,1148585
+2007,Wire Transfer,188290
+2008,Cash,787405
+2008,Credit Card,1599325
+2008,Wire Transfer,257010
+2009,Cash,852895
+2009,Credit Card,1673600
+2009,Wire Transfer,277710
+2010,Cash,658834
+2010,Credit Card,1292008
+2010,Wire Transfer,223785
+2011,Cash,853702
+2011,Credit Card,1721703
+2011,Wire Transfer,276504
+2012,Cash,911815
+2012,Credit Card,1791903
+2012,Wire Transfer,294293
+2013,Cash,827314
+2013,Credit Card,1674015
+2013,Wire Transfer,272799
+2014,Cash,845795
+2014,Credit Card,1711637
+2014,Wire Transfer,294011
+2015,Cash,678876
+2015,Credit Card,1363644
+2015,Wire Transfer,227034
+2016,Cash,842375
+2016,Credit Card,1695467
+2016,Wire Transfer,285904
+2017,Cash,757989
+2017,Credit Card,1546013
+2017,Wire Transfer,256800
+2018,Cash,1194205
+2018,Credit Card,2396573
+2018,Wire Transfer,401320
+2019,Cash,877375
+2019,Credit Card,1747740
+2019,Wire Transfer,302368
+2020,Cash,976993
+2020,Credit Card,1995466
+2020,Wire Transfer,325734
+2021,Cash,910591
+2021,Credit Card,1839782
+2021,Wire Transfer,300731
+2022,Cash,942049
+2022,Credit Card,1923326
+2022,Wire Transfer,321336
+2023,Cash,814640
+2023,Credit Card,1630477
+2023,Wire Transfer,275534
+2024,Cash,159400
+2024,Credit Card,310530
+2024,Wire Transfer,54990

@@ -1,0 +1,61 @@
+City,Browser,Total_Transactions,Rank
+Allentown,Chrome,31062,1
+Allentown,Web Browser,8900,2
+Allentown,Safari,4474,3
+Atlanta,Chrome,39744,1
+Atlanta,Web Browser,11520,2
+Atlanta,Safari,5676,3
+Augusta,Chrome,20347,1
+Augusta,Web Browser,5777,2
+Augusta,Safari,2957,3
+Austin,Chrome,19419,1
+Austin,Web Browser,5503,2
+Austin,Safari,2811,3
+Buffalo,Chrome,19772,1
+Buffalo,Web Browser,5717,2
+Buffalo,Safari,2926,3
+Chicago,Chrome,30795,1
+Chicago,Web Browser,8757,2
+Chicago,Safari,4344,3
+Dallas,Chrome,9211,1
+Dallas,Web Browser,2617,2
+Dallas,Safari,1306,3
+Los Angeles,Chrome,38414,1
+Los Angeles,Web Browser,11056,2
+Los Angeles,Safari,5453,3
+Miami,Chrome,9967,1
+Miami,Web Browser,2789,2
+Miami,Safari,1440,3
+Orlando,Chrome,18091,1
+Orlando,Web Browser,5185,2
+Orlando,Safari,2576,3
+Peoria,Chrome,19599,1
+Peoria,Web Browser,5541,2
+Peoria,Safari,2823,3
+Pittsburgh,Chrome,9992,1
+Pittsburgh,Web Browser,2811,2
+Pittsburgh,Safari,1451,3
+Rochester,Chrome,28802,1
+Rochester,Web Browser,8197,2
+Rochester,Safari,4031,3
+San Diego,Chrome,29547,1
+San Diego,Web Browser,8480,2
+San Diego,Safari,4333,3
+Savannah,Chrome,49636,1
+Savannah,Web Browser,14225,2
+Savannah,Safari,7149,3
+Seattle,Chrome,19176,1
+Seattle,Web Browser,5588,2
+Seattle,Safari,2778,3
+Spokane,Chrome,8993,1
+Spokane,Web Browser,2638,2
+Spokane,Safari,1231,3
+Springfield,Chrome,20735,1
+Springfield,Web Browser,5832,2
+Springfield,Safari,2996,3
+Tacoma,Chrome,27680,1
+Tacoma,Web Browser,7825,2
+Tacoma,Safari,3964,3
+Tampa,Chrome,39611,1
+Tampa,Web Browser,11226,2
+Tampa,Safari,5618,3

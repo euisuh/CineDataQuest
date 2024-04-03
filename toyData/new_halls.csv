@@ -1,0 +1,501 @@
+address,city,state,hall,size
+30546 Angela Grove,Savannah,Georgia,0,100
+821 Ruben Forges,Rochester,New York,0,200
+87747 Ross Parks Apt. 527,Chicago,Illinois,0,375
+0151 Nicole Road Apt. 213,Tacoma,Washington,0,75
+37403 Leonard Circles Apt. 238,Spokane,Washington,0,275
+5869 Willis Summit,Springfield,Illinois,0,125
+8952 Zhang Prairie,Peoria,Illinois,0,75
+1835 Charles Trail,Savannah,Georgia,0,375
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,0,125
+122 Mckee Flat Suite 088,Tampa,Florida,0,350
+577 Robinson Villages Apt. 588,Tacoma,Washington,0,100
+1921 Gonzalez Trace Apt. 906,San Diego,California,0,50
+22522 Savage Rest Suite 648,Miami,Florida,0,150
+2562 Don Garden Suite 520,Rochester,New York,0,325
+4556 Lydia Junctions,Tampa,Florida,0,300
+537 Mejia Wall Suite 409,Seattle,Washington,0,25
+91641 John Islands,Dallas,Texas,0,275
+8292 Phillips Unions Apt. 404,Orlando,Florida,0,275
+468 Ashley Lock,Tampa,Florida,0,50
+38418 Vincent Passage Suite 503,Atlanta,Georgia,0,150
+96005 Barber Flats Apt. 267,Austin,Texas,0,150
+1036 Edwards Flats Suite 078,Peoria,Illinois,0,75
+264 Marshall Islands,Buffalo,New York,0,275
+7083 Mahoney Street,Savannah,Georgia,0,175
+12635 Joseph Street Suite 224,Savannah,Georgia,0,125
+834 Christine Orchard Apt. 381,Chicago,Illinois,0,125
+38500 Robert Meadow,Tacoma,Washington,0,275
+2453 Mary Meadow Apt. 952,Orlando,Florida,0,400
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,0,125
+478 Thomas Rest Apt. 466,Seattle,Washington,0,150
+1697 Coleman Fork Suite 182,Los Angeles,California,0,25
+88034 Baker Trafficway,Allentown,Pennsylvania,0,25
+70360 Jill Points,Austin,Texas,0,250
+360 Jessica Square,Pittsburgh,Pennsylvania,0,400
+5567 Johnston Lodge Suite 478,Los Angeles,California,0,275
+150 Elizabeth Path Suite 550,Buffalo,New York,0,175
+049 William Parkways,Atlanta,Georgia,0,300
+5686 Jones Lane,Savannah,Georgia,0,175
+3419 Griffin Keys,Allentown,Pennsylvania,0,350
+4620 Shannon Dale Suite 351,Los Angeles,California,0,175
+6344 Douglas Brooks,Augusta,Georgia,0,125
+73551 West Spur,Rochester,New York,0,200
+9944 April Squares,San Diego,California,0,225
+617 Jones Drive Suite 929,Los Angeles,California,0,200
+7120 Jennifer Station,San Diego,California,0,25
+0794 Miller Place,Allentown,Pennsylvania,0,225
+91617 Cole Underpass,Tampa,Florida,0,225
+3828 William Turnpike,Augusta,Georgia,0,400
+680 Shawn Valleys,Atlanta,Georgia,0,150
+334 Simmons Branch Suite 380,Atlanta,Georgia,0,325
+30546 Angela Grove,Savannah,Georgia,1,150
+821 Ruben Forges,Rochester,New York,1,100
+87747 Ross Parks Apt. 527,Chicago,Illinois,1,375
+0151 Nicole Road Apt. 213,Tacoma,Washington,1,125
+37403 Leonard Circles Apt. 238,Spokane,Washington,1,375
+5869 Willis Summit,Springfield,Illinois,1,25
+8952 Zhang Prairie,Peoria,Illinois,1,375
+1835 Charles Trail,Savannah,Georgia,1,25
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,1,150
+122 Mckee Flat Suite 088,Tampa,Florida,1,200
+577 Robinson Villages Apt. 588,Tacoma,Washington,1,100
+1921 Gonzalez Trace Apt. 906,San Diego,California,1,325
+22522 Savage Rest Suite 648,Miami,Florida,1,200
+2562 Don Garden Suite 520,Rochester,New York,1,125
+4556 Lydia Junctions,Tampa,Florida,1,300
+537 Mejia Wall Suite 409,Seattle,Washington,1,100
+91641 John Islands,Dallas,Texas,1,350
+8292 Phillips Unions Apt. 404,Orlando,Florida,1,250
+468 Ashley Lock,Tampa,Florida,1,25
+38418 Vincent Passage Suite 503,Atlanta,Georgia,1,200
+96005 Barber Flats Apt. 267,Austin,Texas,1,400
+1036 Edwards Flats Suite 078,Peoria,Illinois,1,25
+264 Marshall Islands,Buffalo,New York,1,50
+7083 Mahoney Street,Savannah,Georgia,1,50
+12635 Joseph Street Suite 224,Savannah,Georgia,1,375
+834 Christine Orchard Apt. 381,Chicago,Illinois,1,400
+38500 Robert Meadow,Tacoma,Washington,1,100
+2453 Mary Meadow Apt. 952,Orlando,Florida,1,50
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,1,275
+478 Thomas Rest Apt. 466,Seattle,Washington,1,300
+1697 Coleman Fork Suite 182,Los Angeles,California,1,325
+88034 Baker Trafficway,Allentown,Pennsylvania,1,150
+70360 Jill Points,Austin,Texas,1,325
+360 Jessica Square,Pittsburgh,Pennsylvania,1,25
+5567 Johnston Lodge Suite 478,Los Angeles,California,1,200
+150 Elizabeth Path Suite 550,Buffalo,New York,1,350
+049 William Parkways,Atlanta,Georgia,1,175
+5686 Jones Lane,Savannah,Georgia,1,75
+3419 Griffin Keys,Allentown,Pennsylvania,1,375
+4620 Shannon Dale Suite 351,Los Angeles,California,1,75
+6344 Douglas Brooks,Augusta,Georgia,1,150
+73551 West Spur,Rochester,New York,1,175
+9944 April Squares,San Diego,California,1,400
+617 Jones Drive Suite 929,Los Angeles,California,1,50
+7120 Jennifer Station,San Diego,California,1,50
+0794 Miller Place,Allentown,Pennsylvania,1,100
+91617 Cole Underpass,Tampa,Florida,1,225
+3828 William Turnpike,Augusta,Georgia,1,350
+680 Shawn Valleys,Atlanta,Georgia,1,250
+334 Simmons Branch Suite 380,Atlanta,Georgia,1,250
+30546 Angela Grove,Savannah,Georgia,2,400
+821 Ruben Forges,Rochester,New York,2,200
+87747 Ross Parks Apt. 527,Chicago,Illinois,2,75
+0151 Nicole Road Apt. 213,Tacoma,Washington,2,400
+37403 Leonard Circles Apt. 238,Spokane,Washington,2,125
+5869 Willis Summit,Springfield,Illinois,2,25
+8952 Zhang Prairie,Peoria,Illinois,2,325
+1835 Charles Trail,Savannah,Georgia,2,100
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,2,400
+122 Mckee Flat Suite 088,Tampa,Florida,2,350
+577 Robinson Villages Apt. 588,Tacoma,Washington,2,225
+1921 Gonzalez Trace Apt. 906,San Diego,California,2,275
+22522 Savage Rest Suite 648,Miami,Florida,2,125
+2562 Don Garden Suite 520,Rochester,New York,2,150
+4556 Lydia Junctions,Tampa,Florida,2,350
+537 Mejia Wall Suite 409,Seattle,Washington,2,200
+91641 John Islands,Dallas,Texas,2,350
+8292 Phillips Unions Apt. 404,Orlando,Florida,2,75
+468 Ashley Lock,Tampa,Florida,2,400
+38418 Vincent Passage Suite 503,Atlanta,Georgia,2,250
+96005 Barber Flats Apt. 267,Austin,Texas,2,225
+1036 Edwards Flats Suite 078,Peoria,Illinois,2,200
+264 Marshall Islands,Buffalo,New York,2,350
+7083 Mahoney Street,Savannah,Georgia,2,50
+12635 Joseph Street Suite 224,Savannah,Georgia,2,50
+834 Christine Orchard Apt. 381,Chicago,Illinois,2,25
+38500 Robert Meadow,Tacoma,Washington,2,50
+2453 Mary Meadow Apt. 952,Orlando,Florida,2,200
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,2,175
+478 Thomas Rest Apt. 466,Seattle,Washington,2,100
+1697 Coleman Fork Suite 182,Los Angeles,California,2,375
+88034 Baker Trafficway,Allentown,Pennsylvania,2,275
+70360 Jill Points,Austin,Texas,2,75
+360 Jessica Square,Pittsburgh,Pennsylvania,2,225
+5567 Johnston Lodge Suite 478,Los Angeles,California,2,275
+150 Elizabeth Path Suite 550,Buffalo,New York,2,25
+049 William Parkways,Atlanta,Georgia,2,100
+5686 Jones Lane,Savannah,Georgia,2,25
+3419 Griffin Keys,Allentown,Pennsylvania,2,225
+4620 Shannon Dale Suite 351,Los Angeles,California,2,350
+6344 Douglas Brooks,Augusta,Georgia,2,225
+73551 West Spur,Rochester,New York,2,275
+9944 April Squares,San Diego,California,2,150
+617 Jones Drive Suite 929,Los Angeles,California,2,125
+7120 Jennifer Station,San Diego,California,2,25
+0794 Miller Place,Allentown,Pennsylvania,2,325
+91617 Cole Underpass,Tampa,Florida,2,275
+3828 William Turnpike,Augusta,Georgia,2,250
+680 Shawn Valleys,Atlanta,Georgia,2,25
+334 Simmons Branch Suite 380,Atlanta,Georgia,2,400
+30546 Angela Grove,Savannah,Georgia,3,275
+821 Ruben Forges,Rochester,New York,3,225
+87747 Ross Parks Apt. 527,Chicago,Illinois,3,250
+0151 Nicole Road Apt. 213,Tacoma,Washington,3,50
+37403 Leonard Circles Apt. 238,Spokane,Washington,3,50
+5869 Willis Summit,Springfield,Illinois,3,25
+8952 Zhang Prairie,Peoria,Illinois,3,75
+1835 Charles Trail,Savannah,Georgia,3,175
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,3,350
+122 Mckee Flat Suite 088,Tampa,Florida,3,300
+577 Robinson Villages Apt. 588,Tacoma,Washington,3,125
+1921 Gonzalez Trace Apt. 906,San Diego,California,3,375
+22522 Savage Rest Suite 648,Miami,Florida,3,325
+2562 Don Garden Suite 520,Rochester,New York,3,150
+4556 Lydia Junctions,Tampa,Florida,3,350
+537 Mejia Wall Suite 409,Seattle,Washington,3,325
+91641 John Islands,Dallas,Texas,3,200
+8292 Phillips Unions Apt. 404,Orlando,Florida,3,75
+468 Ashley Lock,Tampa,Florida,3,25
+38418 Vincent Passage Suite 503,Atlanta,Georgia,3,225
+96005 Barber Flats Apt. 267,Austin,Texas,3,375
+1036 Edwards Flats Suite 078,Peoria,Illinois,3,375
+264 Marshall Islands,Buffalo,New York,3,25
+7083 Mahoney Street,Savannah,Georgia,3,400
+12635 Joseph Street Suite 224,Savannah,Georgia,3,200
+834 Christine Orchard Apt. 381,Chicago,Illinois,3,400
+38500 Robert Meadow,Tacoma,Washington,3,400
+2453 Mary Meadow Apt. 952,Orlando,Florida,3,325
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,3,275
+478 Thomas Rest Apt. 466,Seattle,Washington,3,275
+1697 Coleman Fork Suite 182,Los Angeles,California,3,275
+88034 Baker Trafficway,Allentown,Pennsylvania,3,150
+70360 Jill Points,Austin,Texas,3,225
+360 Jessica Square,Pittsburgh,Pennsylvania,3,225
+5567 Johnston Lodge Suite 478,Los Angeles,California,3,250
+150 Elizabeth Path Suite 550,Buffalo,New York,3,275
+049 William Parkways,Atlanta,Georgia,3,400
+5686 Jones Lane,Savannah,Georgia,3,325
+3419 Griffin Keys,Allentown,Pennsylvania,3,25
+4620 Shannon Dale Suite 351,Los Angeles,California,3,150
+6344 Douglas Brooks,Augusta,Georgia,3,375
+73551 West Spur,Rochester,New York,3,25
+9944 April Squares,San Diego,California,3,200
+617 Jones Drive Suite 929,Los Angeles,California,3,250
+7120 Jennifer Station,San Diego,California,3,200
+0794 Miller Place,Allentown,Pennsylvania,3,50
+91617 Cole Underpass,Tampa,Florida,3,200
+3828 William Turnpike,Augusta,Georgia,3,75
+680 Shawn Valleys,Atlanta,Georgia,3,75
+334 Simmons Branch Suite 380,Atlanta,Georgia,3,100
+30546 Angela Grove,Savannah,Georgia,4,200
+821 Ruben Forges,Rochester,New York,4,350
+87747 Ross Parks Apt. 527,Chicago,Illinois,4,250
+0151 Nicole Road Apt. 213,Tacoma,Washington,4,100
+37403 Leonard Circles Apt. 238,Spokane,Washington,4,125
+5869 Willis Summit,Springfield,Illinois,4,125
+8952 Zhang Prairie,Peoria,Illinois,4,125
+1835 Charles Trail,Savannah,Georgia,4,250
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,4,300
+122 Mckee Flat Suite 088,Tampa,Florida,4,375
+577 Robinson Villages Apt. 588,Tacoma,Washington,4,275
+1921 Gonzalez Trace Apt. 906,San Diego,California,4,225
+22522 Savage Rest Suite 648,Miami,Florida,4,350
+2562 Don Garden Suite 520,Rochester,New York,4,375
+4556 Lydia Junctions,Tampa,Florida,4,200
+537 Mejia Wall Suite 409,Seattle,Washington,4,325
+91641 John Islands,Dallas,Texas,4,175
+8292 Phillips Unions Apt. 404,Orlando,Florida,4,125
+468 Ashley Lock,Tampa,Florida,4,175
+38418 Vincent Passage Suite 503,Atlanta,Georgia,4,375
+96005 Barber Flats Apt. 267,Austin,Texas,4,200
+1036 Edwards Flats Suite 078,Peoria,Illinois,4,200
+264 Marshall Islands,Buffalo,New York,4,150
+7083 Mahoney Street,Savannah,Georgia,4,125
+12635 Joseph Street Suite 224,Savannah,Georgia,4,275
+834 Christine Orchard Apt. 381,Chicago,Illinois,4,400
+38500 Robert Meadow,Tacoma,Washington,4,250
+2453 Mary Meadow Apt. 952,Orlando,Florida,4,75
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,4,150
+478 Thomas Rest Apt. 466,Seattle,Washington,4,150
+1697 Coleman Fork Suite 182,Los Angeles,California,4,200
+88034 Baker Trafficway,Allentown,Pennsylvania,4,175
+70360 Jill Points,Austin,Texas,4,175
+360 Jessica Square,Pittsburgh,Pennsylvania,4,100
+5567 Johnston Lodge Suite 478,Los Angeles,California,4,200
+150 Elizabeth Path Suite 550,Buffalo,New York,4,200
+049 William Parkways,Atlanta,Georgia,4,75
+5686 Jones Lane,Savannah,Georgia,4,50
+3419 Griffin Keys,Allentown,Pennsylvania,4,175
+4620 Shannon Dale Suite 351,Los Angeles,California,4,25
+6344 Douglas Brooks,Augusta,Georgia,4,275
+73551 West Spur,Rochester,New York,4,400
+9944 April Squares,San Diego,California,4,150
+617 Jones Drive Suite 929,Los Angeles,California,4,25
+7120 Jennifer Station,San Diego,California,4,375
+0794 Miller Place,Allentown,Pennsylvania,4,75
+91617 Cole Underpass,Tampa,Florida,4,75
+3828 William Turnpike,Augusta,Georgia,4,275
+680 Shawn Valleys,Atlanta,Georgia,4,300
+334 Simmons Branch Suite 380,Atlanta,Georgia,4,125
+30546 Angela Grove,Savannah,Georgia,5,300
+821 Ruben Forges,Rochester,New York,5,325
+87747 Ross Parks Apt. 527,Chicago,Illinois,5,200
+0151 Nicole Road Apt. 213,Tacoma,Washington,5,300
+37403 Leonard Circles Apt. 238,Spokane,Washington,5,325
+5869 Willis Summit,Springfield,Illinois,5,225
+8952 Zhang Prairie,Peoria,Illinois,5,400
+1835 Charles Trail,Savannah,Georgia,5,175
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,5,350
+122 Mckee Flat Suite 088,Tampa,Florida,5,350
+577 Robinson Villages Apt. 588,Tacoma,Washington,5,350
+1921 Gonzalez Trace Apt. 906,San Diego,California,5,250
+22522 Savage Rest Suite 648,Miami,Florida,5,50
+2562 Don Garden Suite 520,Rochester,New York,5,100
+4556 Lydia Junctions,Tampa,Florida,5,25
+537 Mejia Wall Suite 409,Seattle,Washington,5,125
+91641 John Islands,Dallas,Texas,5,325
+8292 Phillips Unions Apt. 404,Orlando,Florida,5,225
+468 Ashley Lock,Tampa,Florida,5,325
+38418 Vincent Passage Suite 503,Atlanta,Georgia,5,125
+96005 Barber Flats Apt. 267,Austin,Texas,5,50
+1036 Edwards Flats Suite 078,Peoria,Illinois,5,225
+264 Marshall Islands,Buffalo,New York,5,225
+7083 Mahoney Street,Savannah,Georgia,5,200
+12635 Joseph Street Suite 224,Savannah,Georgia,5,25
+834 Christine Orchard Apt. 381,Chicago,Illinois,5,200
+38500 Robert Meadow,Tacoma,Washington,5,200
+2453 Mary Meadow Apt. 952,Orlando,Florida,5,150
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,5,125
+478 Thomas Rest Apt. 466,Seattle,Washington,5,150
+1697 Coleman Fork Suite 182,Los Angeles,California,5,100
+88034 Baker Trafficway,Allentown,Pennsylvania,5,150
+70360 Jill Points,Austin,Texas,5,125
+360 Jessica Square,Pittsburgh,Pennsylvania,5,300
+5567 Johnston Lodge Suite 478,Los Angeles,California,5,300
+150 Elizabeth Path Suite 550,Buffalo,New York,5,100
+049 William Parkways,Atlanta,Georgia,5,25
+5686 Jones Lane,Savannah,Georgia,5,225
+3419 Griffin Keys,Allentown,Pennsylvania,5,75
+4620 Shannon Dale Suite 351,Los Angeles,California,5,200
+6344 Douglas Brooks,Augusta,Georgia,5,275
+73551 West Spur,Rochester,New York,5,125
+9944 April Squares,San Diego,California,5,275
+617 Jones Drive Suite 929,Los Angeles,California,5,400
+7120 Jennifer Station,San Diego,California,5,325
+0794 Miller Place,Allentown,Pennsylvania,5,75
+91617 Cole Underpass,Tampa,Florida,5,275
+3828 William Turnpike,Augusta,Georgia,5,300
+680 Shawn Valleys,Atlanta,Georgia,5,150
+334 Simmons Branch Suite 380,Atlanta,Georgia,5,250
+30546 Angela Grove,Savannah,Georgia,6,200
+821 Ruben Forges,Rochester,New York,6,325
+87747 Ross Parks Apt. 527,Chicago,Illinois,6,200
+0151 Nicole Road Apt. 213,Tacoma,Washington,6,275
+37403 Leonard Circles Apt. 238,Spokane,Washington,6,250
+5869 Willis Summit,Springfield,Illinois,6,100
+8952 Zhang Prairie,Peoria,Illinois,6,125
+1835 Charles Trail,Savannah,Georgia,6,175
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,6,75
+122 Mckee Flat Suite 088,Tampa,Florida,6,100
+577 Robinson Villages Apt. 588,Tacoma,Washington,6,250
+1921 Gonzalez Trace Apt. 906,San Diego,California,6,225
+22522 Savage Rest Suite 648,Miami,Florida,6,150
+2562 Don Garden Suite 520,Rochester,New York,6,125
+4556 Lydia Junctions,Tampa,Florida,6,400
+537 Mejia Wall Suite 409,Seattle,Washington,6,300
+91641 John Islands,Dallas,Texas,6,275
+8292 Phillips Unions Apt. 404,Orlando,Florida,6,325
+468 Ashley Lock,Tampa,Florida,6,125
+38418 Vincent Passage Suite 503,Atlanta,Georgia,6,125
+96005 Barber Flats Apt. 267,Austin,Texas,6,125
+1036 Edwards Flats Suite 078,Peoria,Illinois,6,150
+264 Marshall Islands,Buffalo,New York,6,275
+7083 Mahoney Street,Savannah,Georgia,6,400
+12635 Joseph Street Suite 224,Savannah,Georgia,6,300
+834 Christine Orchard Apt. 381,Chicago,Illinois,6,300
+38500 Robert Meadow,Tacoma,Washington,6,225
+2453 Mary Meadow Apt. 952,Orlando,Florida,6,50
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,6,125
+478 Thomas Rest Apt. 466,Seattle,Washington,6,175
+1697 Coleman Fork Suite 182,Los Angeles,California,6,275
+88034 Baker Trafficway,Allentown,Pennsylvania,6,125
+70360 Jill Points,Austin,Texas,6,200
+360 Jessica Square,Pittsburgh,Pennsylvania,6,100
+5567 Johnston Lodge Suite 478,Los Angeles,California,6,400
+150 Elizabeth Path Suite 550,Buffalo,New York,6,350
+049 William Parkways,Atlanta,Georgia,6,325
+5686 Jones Lane,Savannah,Georgia,6,100
+3419 Griffin Keys,Allentown,Pennsylvania,6,150
+4620 Shannon Dale Suite 351,Los Angeles,California,6,375
+6344 Douglas Brooks,Augusta,Georgia,6,375
+73551 West Spur,Rochester,New York,6,50
+9944 April Squares,San Diego,California,6,125
+617 Jones Drive Suite 929,Los Angeles,California,6,375
+7120 Jennifer Station,San Diego,California,6,200
+0794 Miller Place,Allentown,Pennsylvania,6,275
+91617 Cole Underpass,Tampa,Florida,6,375
+3828 William Turnpike,Augusta,Georgia,6,150
+680 Shawn Valleys,Atlanta,Georgia,6,150
+334 Simmons Branch Suite 380,Atlanta,Georgia,6,150
+30546 Angela Grove,Savannah,Georgia,7,25
+821 Ruben Forges,Rochester,New York,7,250
+87747 Ross Parks Apt. 527,Chicago,Illinois,7,350
+0151 Nicole Road Apt. 213,Tacoma,Washington,7,200
+37403 Leonard Circles Apt. 238,Spokane,Washington,7,175
+5869 Willis Summit,Springfield,Illinois,7,150
+8952 Zhang Prairie,Peoria,Illinois,7,75
+1835 Charles Trail,Savannah,Georgia,7,400
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,7,175
+122 Mckee Flat Suite 088,Tampa,Florida,7,200
+577 Robinson Villages Apt. 588,Tacoma,Washington,7,200
+1921 Gonzalez Trace Apt. 906,San Diego,California,7,275
+22522 Savage Rest Suite 648,Miami,Florida,7,225
+2562 Don Garden Suite 520,Rochester,New York,7,100
+4556 Lydia Junctions,Tampa,Florida,7,75
+537 Mejia Wall Suite 409,Seattle,Washington,7,250
+91641 John Islands,Dallas,Texas,7,100
+8292 Phillips Unions Apt. 404,Orlando,Florida,7,125
+468 Ashley Lock,Tampa,Florida,7,400
+38418 Vincent Passage Suite 503,Atlanta,Georgia,7,275
+96005 Barber Flats Apt. 267,Austin,Texas,7,350
+1036 Edwards Flats Suite 078,Peoria,Illinois,7,50
+264 Marshall Islands,Buffalo,New York,7,275
+7083 Mahoney Street,Savannah,Georgia,7,375
+12635 Joseph Street Suite 224,Savannah,Georgia,7,300
+834 Christine Orchard Apt. 381,Chicago,Illinois,7,125
+38500 Robert Meadow,Tacoma,Washington,7,300
+2453 Mary Meadow Apt. 952,Orlando,Florida,7,200
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,7,375
+478 Thomas Rest Apt. 466,Seattle,Washington,7,175
+1697 Coleman Fork Suite 182,Los Angeles,California,7,125
+88034 Baker Trafficway,Allentown,Pennsylvania,7,250
+70360 Jill Points,Austin,Texas,7,150
+360 Jessica Square,Pittsburgh,Pennsylvania,7,325
+5567 Johnston Lodge Suite 478,Los Angeles,California,7,400
+150 Elizabeth Path Suite 550,Buffalo,New York,7,325
+049 William Parkways,Atlanta,Georgia,7,125
+5686 Jones Lane,Savannah,Georgia,7,150
+3419 Griffin Keys,Allentown,Pennsylvania,7,125
+4620 Shannon Dale Suite 351,Los Angeles,California,7,325
+6344 Douglas Brooks,Augusta,Georgia,7,125
+73551 West Spur,Rochester,New York,7,375
+9944 April Squares,San Diego,California,7,250
+617 Jones Drive Suite 929,Los Angeles,California,7,25
+7120 Jennifer Station,San Diego,California,7,175
+0794 Miller Place,Allentown,Pennsylvania,7,400
+91617 Cole Underpass,Tampa,Florida,7,300
+3828 William Turnpike,Augusta,Georgia,7,300
+680 Shawn Valleys,Atlanta,Georgia,7,25
+334 Simmons Branch Suite 380,Atlanta,Georgia,7,225
+30546 Angela Grove,Savannah,Georgia,8,275
+821 Ruben Forges,Rochester,New York,8,250
+87747 Ross Parks Apt. 527,Chicago,Illinois,8,50
+0151 Nicole Road Apt. 213,Tacoma,Washington,8,375
+37403 Leonard Circles Apt. 238,Spokane,Washington,8,75
+5869 Willis Summit,Springfield,Illinois,8,200
+8952 Zhang Prairie,Peoria,Illinois,8,375
+1835 Charles Trail,Savannah,Georgia,8,125
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,8,325
+122 Mckee Flat Suite 088,Tampa,Florida,8,75
+577 Robinson Villages Apt. 588,Tacoma,Washington,8,50
+1921 Gonzalez Trace Apt. 906,San Diego,California,8,200
+22522 Savage Rest Suite 648,Miami,Florida,8,350
+2562 Don Garden Suite 520,Rochester,New York,8,75
+4556 Lydia Junctions,Tampa,Florida,8,375
+537 Mejia Wall Suite 409,Seattle,Washington,8,375
+91641 John Islands,Dallas,Texas,8,150
+8292 Phillips Unions Apt. 404,Orlando,Florida,8,275
+468 Ashley Lock,Tampa,Florida,8,400
+38418 Vincent Passage Suite 503,Atlanta,Georgia,8,150
+96005 Barber Flats Apt. 267,Austin,Texas,8,75
+1036 Edwards Flats Suite 078,Peoria,Illinois,8,250
+264 Marshall Islands,Buffalo,New York,8,50
+7083 Mahoney Street,Savannah,Georgia,8,150
+12635 Joseph Street Suite 224,Savannah,Georgia,8,375
+834 Christine Orchard Apt. 381,Chicago,Illinois,8,300
+38500 Robert Meadow,Tacoma,Washington,8,225
+2453 Mary Meadow Apt. 952,Orlando,Florida,8,225
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,8,225
+478 Thomas Rest Apt. 466,Seattle,Washington,8,325
+1697 Coleman Fork Suite 182,Los Angeles,California,8,100
+88034 Baker Trafficway,Allentown,Pennsylvania,8,300
+70360 Jill Points,Austin,Texas,8,100
+360 Jessica Square,Pittsburgh,Pennsylvania,8,75
+5567 Johnston Lodge Suite 478,Los Angeles,California,8,125
+150 Elizabeth Path Suite 550,Buffalo,New York,8,275
+049 William Parkways,Atlanta,Georgia,8,275
+5686 Jones Lane,Savannah,Georgia,8,175
+3419 Griffin Keys,Allentown,Pennsylvania,8,250
+4620 Shannon Dale Suite 351,Los Angeles,California,8,200
+6344 Douglas Brooks,Augusta,Georgia,8,25
+73551 West Spur,Rochester,New York,8,125
+9944 April Squares,San Diego,California,8,200
+617 Jones Drive Suite 929,Los Angeles,California,8,100
+7120 Jennifer Station,San Diego,California,8,150
+0794 Miller Place,Allentown,Pennsylvania,8,325
+91617 Cole Underpass,Tampa,Florida,8,225
+3828 William Turnpike,Augusta,Georgia,8,200
+680 Shawn Valleys,Atlanta,Georgia,8,375
+334 Simmons Branch Suite 380,Atlanta,Georgia,8,325
+30546 Angela Grove,Savannah,Georgia,9,25
+821 Ruben Forges,Rochester,New York,9,375
+87747 Ross Parks Apt. 527,Chicago,Illinois,9,375
+0151 Nicole Road Apt. 213,Tacoma,Washington,9,75
+37403 Leonard Circles Apt. 238,Spokane,Washington,9,375
+5869 Willis Summit,Springfield,Illinois,9,175
+8952 Zhang Prairie,Peoria,Illinois,9,300
+1835 Charles Trail,Savannah,Georgia,9,75
+0083 Jasmine Canyon Suite 151,Springfield,Illinois,9,325
+122 Mckee Flat Suite 088,Tampa,Florida,9,75
+577 Robinson Villages Apt. 588,Tacoma,Washington,9,150
+1921 Gonzalez Trace Apt. 906,San Diego,California,9,125
+22522 Savage Rest Suite 648,Miami,Florida,9,25
+2562 Don Garden Suite 520,Rochester,New York,9,150
+4556 Lydia Junctions,Tampa,Florida,9,275
+537 Mejia Wall Suite 409,Seattle,Washington,9,350
+91641 John Islands,Dallas,Texas,9,325
+8292 Phillips Unions Apt. 404,Orlando,Florida,9,200
+468 Ashley Lock,Tampa,Florida,9,350
+38418 Vincent Passage Suite 503,Atlanta,Georgia,9,350
+96005 Barber Flats Apt. 267,Austin,Texas,9,375
+1036 Edwards Flats Suite 078,Peoria,Illinois,9,225
+264 Marshall Islands,Buffalo,New York,9,350
+7083 Mahoney Street,Savannah,Georgia,9,175
+12635 Joseph Street Suite 224,Savannah,Georgia,9,150
+834 Christine Orchard Apt. 381,Chicago,Illinois,9,100
+38500 Robert Meadow,Tacoma,Washington,9,250
+2453 Mary Meadow Apt. 952,Orlando,Florida,9,225
+8168 Weaver Plaza Apt. 175,Chicago,Illinois,9,300
+478 Thomas Rest Apt. 466,Seattle,Washington,9,175
+1697 Coleman Fork Suite 182,Los Angeles,California,9,375
+88034 Baker Trafficway,Allentown,Pennsylvania,9,375
+70360 Jill Points,Austin,Texas,9,300
+360 Jessica Square,Pittsburgh,Pennsylvania,9,300
+5567 Johnston Lodge Suite 478,Los Angeles,California,9,200
+150 Elizabeth Path Suite 550,Buffalo,New York,9,125
+049 William Parkways,Atlanta,Georgia,9,350
+5686 Jones Lane,Savannah,Georgia,9,400
+3419 Griffin Keys,Allentown,Pennsylvania,9,200
+4620 Shannon Dale Suite 351,Los Angeles,California,9,175
+6344 Douglas Brooks,Augusta,Georgia,9,350
+73551 West Spur,Rochester,New York,9,300
+9944 April Squares,San Diego,California,9,75
+617 Jones Drive Suite 929,Los Angeles,California,9,25
+7120 Jennifer Station,San Diego,California,9,125
+0794 Miller Place,Allentown,Pennsylvania,9,375
+91617 Cole Underpass,Tampa,Florida,9,325
+3828 William Turnpike,Augusta,Georgia,9,125
+680 Shawn Valleys,Atlanta,Georgia,9,300
+334 Simmons Branch Suite 380,Atlanta,Georgia,9,175
