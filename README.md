@@ -2,6 +2,8 @@
 
 CineDataQuest is my ticket to cinematic data analysis. With over 3 million entries, delve into ticket sales, movie preferences, and more as I showcase my SQL skills in this practice portfolio project. Lights, camera, data!
 
+![cover](cover.jpg)
+
 ## Conceptual Design
 
 ### ROLAP Schema
