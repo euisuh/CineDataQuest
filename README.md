@@ -1,6 +1,6 @@
 # CineDataQuest
 
-Course project (database course, spring 2024; commits April 2024). A cinema ticketing database designed as a ROLAP star/snowflake schema in SQLite, populated with synthetic data, and queried with 18 SQL analysis questions.
+Course project (course and term not stated in the repo; commits are from April 2024). A cinema ticketing database designed as a ROLAP schema in SQLite, populated with synthetic data, and queried with 18 SQL analysis questions.
 
 ![cover](cover.jpg)
 
