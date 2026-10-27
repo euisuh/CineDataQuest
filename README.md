@@ -1,8 +1,24 @@
 # CineDataQuest
 
-CineDataQuest is my ticket to cinematic data analysis. With over 3 million entries, delve into ticket sales, movie preferences, and more as I showcase my SQL skills in this practice portfolio project. Lights, camera, data!
+Course project (database course, spring 2024; commits April 2024). A cinema ticketing database designed as a ROLAP star/snowflake schema in SQLite, populated with synthetic data, and queried with 18 SQL analysis questions.
 
 ![cover](cover.jpg)
+
+## What it shows
+
+- Schema design: a ticket-transaction fact table with customer, session, movie, cast, artist, and promotion tables (diagram below; DDL in `sqls/init1.sql`).
+- Synthetic data generation with pandas into SQLite (`createDB.ipynb`).
+- 18 analytical SQL queries with timing, run from `implementation.ipynb`; results are saved as CSV in `sql_result/`.
+
+## How to run
+
+```
+pip install pandas jupyter
+jupyter notebook createDB.ipynb      # builds esj2.db from sqls/init1.sql and toyData/
+jupyter notebook implementation.ipynb  # runs the queries against esj2.db
+```
+
+`esj2.db` is not committed (it is git-ignored). Dependencies other than pandas/sqlite3 are not pinned; I did not re-run the notebooks when tidying this repo.
 
 ## Conceptual Design
 
@@ -24,4 +40,4 @@ CineDataQuest is my ticket to cinematic data analysis. With over 3 million entri
 
 ## Data Scale
 
-With over 3 million entries, CineDataQuest boasts an extensive dataset that provides ample opportunities for in-depth analysis and exploration. This substantial volume of data ensures robust insights and comprehensive examinations into various aspects of cinema operations and customer behaviors.
+Per the comments in `createDB.ipynb`, the generated database holds roughly 1M ticket transactions and about 3M tickets, plus smaller tables (80 promotions, 3,000 customers, 500 movies, 2,000 artists, 5,000 cast rows, 10K sessions). The data is synthetic.
